@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LogiCivilApp
+build_property.RootNamespace = LogiCivilApp
+build_property.ProjectDir = Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp
+build_property._RazorSourceGeneratorDebug = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Login_FO/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5fRk9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Login_FO/Register_Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5fRk9cUmVnaXN0ZXJfRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/StatGlobal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdEdsb2JhbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Utilisateur/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w2honfb3wv
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Shared/_Layout_Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8rq8m70usj
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Shared/_Layout_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ro2pqpyj1a
+
+[Y:/MemoireL3/Memoire&Presentation/testBe/LogiCivilApp/Views/Shared/_Layout_Login_FO.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfTG9naW5fRk8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jf2gwi5h3q

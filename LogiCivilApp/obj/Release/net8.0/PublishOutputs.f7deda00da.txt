@@ -1,0 +1,12 @@
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\LogiCivilApp.exe
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\appsettings.Development.json
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\appsettings.json
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\LogiCivilApp.dll
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\LogiCivilApp.runtimeconfig.json
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\LogiCivilApp.pdb
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\Npgsql.dll
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+Y:\MemoireL3\Memoire&Presentation\testBe\LogiCivilApp\bin\Release\net8.0\publish\LogiCivilApp.deps.json
