@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LogiCivilApp</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/LogiCivilApp.styles.css" asp-append-version="true" />
+
+    <!-- Main CSS-->
+    <link rel="stylesheet" type="text/css" href="~/css/main.css">
+    <!-- Font-icon css-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+    @* Custom alert  *@
+    <link href="https://cdn.jsdelivr.net/npm/@@sweetalert2/theme-dark/dark.css" rel="stylesheet">
+
+
+</head>
+<body class="app sidebar-mini">
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+        @if (TempData.ContainsKey("errorMessage"))
+        {
+            <script>
+                document.addEventListener("DOMContentLoaded", function () {
+                    Swal.fire({
+                        icon: "error",
+                        title: "Oops...",
+                        text: '@Html.Raw(TempData["errorMessage"])',
+                        confirmButtonColor: "#00695c",
+                    });
+                });
+            </script>
+        }
+        @if (TempData.ContainsKey("successMessage"))
+        {
+            <script>
+                document.addEventListener("DOMContentLoaded", function () {
+                    Swal.fire({
+                        icon: "success",
+                        title: "Succès",
+                        text: '@Html.Raw(TempData["successMessage"])',
+                        confirmButtonColor: "#00695c",
+                        timer: 1000,
+                        timerProgressBar: true,
+                        showConfirmButton: false
+                    }).then(function () {
+                        window.location.href = '@TempData["redirectAfterToast"]';
+                    });
+                });
+            </script>
+        }
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @* Custom Toast  *@
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>
